@@ -1,0 +1,16 @@
+{
+  "name": "littlebits-cloud-stream",
+  "version": "0.0.1",
+  "description": "Lightweight wrapper for littleBits Cloud Websocket Streaming API",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "lib/primus-logging.js"
+  ],
+  "license": "GPL3",
+  "dependencies": {
+    "primus": "~0.17.0",
+    "lodash": "~2.4.1"
+  },
+  "repository": "littlebitselectronics/cloud-client-api-stream"
+}
